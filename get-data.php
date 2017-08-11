@@ -3,6 +3,9 @@ $array = array(
     "nyt" => "https://www.nytimes.com/",
     "dmk" => "https://www.dailymaverick.co.za/",
     "jbn" => "https://www.jacobinmag.com/",
+    "gdn" => "https://www.theguardian.com/international",
+    "bbt" => "http://www.breitbart.com/",
+    "cbc" => "http://www.cbc.ca/news"
 );
 
 
